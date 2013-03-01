@@ -1,0 +1,145 @@
+Links jeweils die Anzahl der enthaltenen Autoren bzw. Lehrstühle,
+rechts die Anzahl der Zusammenhangskomponenten / Cliquen mit der links stehenden Anzahl.
+
+Strong connected (lehrstuhl):
+12: 1
+
+Maximal cliques (lehrstuhl):
+3: 1
+4: 3
+5: 1
+
+Strong connected (co-author):
+2: 10
+3: 10
+4: 3
+5: 4
+6: 4
+7: 1
+9: 1
+11: 1
+12: 3
+18: 1
+19: 1
+28: 1
+30: 1
+37: 1
+3414: 1
+
+Maximal cliques (co-author):
+3: 550
+4: 470
+5: 235
+6: 115
+7: 53
+8: 26
+9: 19
+10: 9
+11: 6
+12: 6
+13: 4
+14: 5
+15: 3
+16: 2
+17: 3
+19: 1
+20: 2
+22: 2
+24: 1
+32: 1
+37: 1
+39: 1
+
+Strong connected (ls1-only):
+2: 1
+23: 1
+
+Maximal cliques (ls1-only):
+3: 9
+
+Strong connected (ls2-only):
+55: 1
+
+Maximal cliques (ls2-only):
+3: 29
+4: 3
+5: 1
+
+Strong connected (ls3-only):
+6: 1
+13: 1
+
+Maximal cliques (ls3-only):
+3: 2
+4: 2
+
+Strong connected (ls4-only):
+5: 1
+12: 1
+
+Maximal cliques (ls4-only):
+3: 1
+4: 5
+
+Strong connected (ls5-only):
+2: 1
+33: 1
+
+Maximal cliques (ls5-only):
+3: 15
+4: 3
+
+Strong connected (ls6-only):
+4: 1
+
+Maximal cliques (ls6-only):
+
+Strong connected (ls7-only):
+8: 1
+
+Maximal cliques (ls7-only):
+3: 4
+
+Strong connected (ls8-only):
+3: 3
+17: 1
+
+Maximal cliques (ls8-only):
+3: 2
+4: 1
+5: 2
+
+Strong connected (ls10-only):
+14: 1
+
+Maximal cliques (ls10-only):
+3: 1
+
+Strong connected (ls11-only):
+3: 1
+45: 1
+
+Maximal cliques (ls11-only):
+3: 10
+4: 7
+5: 1
+
+Strong connected (ls12-only):
+2: 1
+24: 1
+
+Maximal cliques (ls12-only):
+3: 6
+4: 5
+5: 1
+
+Strong connected (ls13-only):
+6: 1
+
+Maximal cliques (ls13-only):
+3: 3
+
+Strong connected (ls14-only):
+2: 3
+
+Maximal cliques (ls14-only):
